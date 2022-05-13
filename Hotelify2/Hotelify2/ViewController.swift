@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Hotelify2
+//  Hotelify
 //
 //  Created by Andy Kwesi on 2/3/20.
 //  Copyright © 2020 Andy Kwesi. All rights reserved.
